@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.org/zuker/box2d-native.svg?branch=master)](https://travis-ci.org/zuker/box2d-native)
 
 # box2d-native
+
+[![Join the chat at https://gitter.im/zuker/box2d-native](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/zuker/box2d-native?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [Box2D](http://box2d.org/) v2.3.1 as native Node.js addon.
 
 ## Details
